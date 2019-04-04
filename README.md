@@ -1,2 +1,2 @@
 # AB-Test
-A/B Testing a mobile game using bootstrap analysis
+A small project where A/B Testing and bootstrap analysis is used to determine whether moving a gate in a mobile game affects player retention.
